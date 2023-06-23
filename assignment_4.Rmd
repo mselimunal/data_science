@@ -59,6 +59,8 @@ datasummary(growth+rgdp60~treat*(Mean+Median+SD+Min+Max),data=GrowthSW)
 
 **Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
 
+When there are no revolutions there is more growth as the mean is higher than if there are revolutions. This is the same in the case of rgdp60. 
+
 
 ### Part 3: Make a table summarizing regressions using modelsummary and kable
 
